@@ -1,5 +1,5 @@
 _repo: Germinal_56528
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ellis, Havelock
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2654'
     url: http://www.gutenberg.org/2009/agents/2654
     wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
+covers:
+- cover_type: archival
+  image_path: 56528-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -21,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56528#Germinal
 gutenberg_issued: '2018-02-08'
 gutenberg_type: Text
 identifiers:
