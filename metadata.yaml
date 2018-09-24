@@ -1,0 +1,42 @@
+_repo: Germinal_56528
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ellis, Havelock
+    alias: Ellis, Henry Havelock
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '2654'
+    url: http://www.gutenberg.org/2009/agents/2654
+    wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2018-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France, Northern -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Coal miners -- Fiction'
+- !lcsh 'Coal mines and mining -- Fiction'
+- !lcsh 'Labor disputes -- Fiction'
+- !lcsh 'Strikes and lockouts -- Fiction'
+- GITenberg
+title: Germinal
+url: http://www.gutenberg.org/ebooks/56528
